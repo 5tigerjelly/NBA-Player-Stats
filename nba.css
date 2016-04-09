@@ -29,32 +29,32 @@ img {
 
 input[type=text]{
 	width: 30%;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    font-size: 16px;
-    background-color: white;
-    padding: 12px 20px 12px 40px;
+    	box-sizing: border-box;
+    	border: 2px solid #ccc;
+    	border-radius: 4px;
+    	font-size: 16px;
+    	background-color: white;
+    	padding: 12px 20px 12px 40px;
 }
 
 #button{
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    background-color: white;
-    color: black;
-    border: 2px solid #555555;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
 }
 
 #button:hover {
-    background-color: #555555;
-    color: white;
+	background-color: #555555;
+	color: white;
 }
 
 table{
@@ -85,11 +85,11 @@ h2{
 	clear: both;
 	margin: auto;
 	overflow: visible;
-  background: #666666; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left top, #666666, #1a1a1a); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right, #666666, #1a1a1a); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right, #666666, #1a1a1a); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, #666666, #1a1a1a); /* Standard syntax */
+	background: #666666; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left top, #666666, #1a1a1a); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, #666666, #1a1a1a); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, #666666, #1a1a1a); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, #666666, #1a1a1a); /* Standard syntax */
 
 }
 
