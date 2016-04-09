@@ -85,11 +85,11 @@ h2{
 	clear: both;
 	margin: auto;
 	overflow: visible;
-	background: #666666; /* For browsers that do not support gradients */
-	background: -webkit-linear-gradient(left top, #666666, #1a1a1a); /* For Safari 5.1 to 6.0 */
-	background: -o-linear-gradient(bottom right, #666666, #1a1a1a); /* For Opera 11.1 to 12.0 */
-	background: -moz-linear-gradient(bottom right, #666666, #1a1a1a); /* For Firefox 3.6 to 15 */
-	background: linear-gradient(to bottom right, #666666, #1a1a1a); /* Standard syntax */
+	background: #666666;
+	background: -webkit-linear-gradient(left top, #666666, #1a1a1a);
+	background: -o-linear-gradient(bottom right, #666666, #1a1a1a);
+	background: -moz-linear-gradient(bottom right, #666666, #1a1a1a);
+	background: linear-gradient(to bottom right, #666666, #1a1a1a);
 
 }
 
