@@ -11,15 +11,20 @@ img {
 .playerimg{
 	margin-left: 10%;
 	margin-right: 5%;
+	width: 230px;
+	height: 185px;
 }
 
 .teamlogo{
 	margin-top: 15px;
 	margin-right: 5%;
+	height: 110px;
 }
 
 #logo{
 	margin-bottom: 20px;
+	height: 200px;
+	width: 200px;
 }
 
 input[type=text]{
