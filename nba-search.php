@@ -2,7 +2,7 @@
 	// calls in player.php file which contains player class information
 	include_once('player.php');
 	// connects to the AWS RDS
-	$db = new PDO("mysql:dbname=info344db;host=info344db.cryrhjhe9zkn.us-west-2.rds.amazonaws.com:3306","info344user", "qjaanr208");
+	$db = new PDO("mysql:dbname=******;host=info344db.**********.us-west-2.rds.amazonaws.com:3306","*********", "********");
 	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 	// fetches the names of the players to put in datalist.
 	$playerList = $db->query("SELECT FULLNAME FROM PLAYER")->fetchAll(PDO::FETCH_ASSOC);
