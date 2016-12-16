@@ -14,11 +14,7 @@ Fortunately, we have some data at our disposal (thanks to SPXStats.com), here’
 
 ##The Infrastructure
 
-We’re going to have a lot of people use this website so it needs to scale from day one. We’ll build this website on Amazon Web Services using EC2 and RDS. Here are tips on how to setup AWS.
-
-http://uwinfo344.chunkaiw.com/files/How%20to%20setup%20AWS.docx (Links to an external site.)
-
-http://uwinfo344.chunkaiw.com/files/awssetup.txt (Links to an external site.)
+We’re going to have a lot of people use this website so it needs to scale from day one. We’ll build this website on Amazon Web Services using EC2 and RDS.
 
 ##The User Interface
 
@@ -33,8 +29,11 @@ To create a great user experience, you’ll need to be extra careful in handling
 Let’s make sure we have the following:
 
 [50pts] Website works – searching for player name works!
+
 [20pts] Data is hosted on AWS RDS
+
 [20pts] Website written with PHP & MySQL – PHP best practices & OOP!
+
 [10pts] Website runs on AWS EC2
  
 
